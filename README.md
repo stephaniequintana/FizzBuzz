@@ -2,7 +2,6 @@
 The Odin Project, Foundations, JS Basics, Section 5, Problem Solving
 ## Table of Contents
 * [General Info](#general-information)
-* [Challenges Encountered and Knowledge Gained](#challenges-encountered-and-knowledge-gained)
 * [Languages](#languages)
 
 ## General Information
